@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tajagn01/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
+## Greedy
+|  |
+| ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
 <!---LeetCode Topics End-->
