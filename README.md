@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0661-image-smoother](https://github.com/tajagn01/leetcode-solution/tree/master/0661-image-smoother) |
+| [0724-find-pivot-index](https://github.com/tajagn01/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/0766-toeplitz-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/tajagn01/leetcode-solution/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
