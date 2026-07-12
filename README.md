@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/tajagn01/leetcode-solution/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/tajagn01/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/0766-toeplitz-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tajagn01/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tajagn01/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/tajagn01/leetcode-solution/tree/master/3668-restore-finishing-order) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
+| [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tajagn01/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
