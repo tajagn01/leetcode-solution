@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tajagn01/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tajagn01/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/tajagn01/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [1108-defanging-an-ip-address](https://github.com/tajagn01/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/tajagn01/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/tajagn01/leetcode-solution/tree/master/2485-find-the-pivot-integer) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
