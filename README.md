@@ -56,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0647-palindromic-substrings](https://github.com/tajagn01/leetcode-solution/tree/master/0647-palindromic-substrings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tajagn01/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/tajagn01/leetcode-solution/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/tajagn01/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tajagn01/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/tajagn01/leetcode-solution/tree/master/0443-string-compression) |
+| [0647-palindromic-substrings](https://github.com/tajagn01/leetcode-solution/tree/master/0647-palindromic-substrings) |
 | [0890-find-and-replace-pattern](https://github.com/tajagn01/leetcode-solution/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/tajagn01/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
