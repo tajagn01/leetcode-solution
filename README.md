@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/tajagn01/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tajagn01/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/tajagn01/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/tajagn01/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/tajagn01/leetcode-solution/tree/master/0443-string-compression) |
 | [1108-defanging-an-ip-address](https://github.com/tajagn01/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
