@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tajagn01/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/0766-toeplitz-matrix) |
 | [0890-find-and-replace-pattern](https://github.com/tajagn01/leetcode-solution/tree/master/0890-find-and-replace-pattern) |
+| [1260-shift-2d-grid](https://github.com/tajagn01/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0661-image-smoother](https://github.com/tajagn01/leetcode-solution/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/0766-toeplitz-matrix) |
+| [1260-shift-2d-grid](https://github.com/tajagn01/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/tajagn01/leetcode-solution/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
