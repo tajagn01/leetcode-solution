@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0119-pascals-triangle-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0661-image-smoother](https://github.com/tajagn01/leetcode-solution/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/tajagn01/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/0766-toeplitz-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/tajagn01/leetcode-solution/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [0890-find-and-replace-pattern](https://github.com/tajagn01/leetcode-solution/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tajagn01/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [3467-transform-array-by-parity](https://github.com/tajagn01/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
