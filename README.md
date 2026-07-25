@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/tajagn01/leetcode-solution/tree/master/2485-find-the-pivot-integer) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tajagn01/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tajagn01/leetcode-solution/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/tajagn01/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tajagn01/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tajagn01/leetcode-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/tajagn01/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/tajagn01/leetcode-solution/tree/master/3467-transform-array-by-parity) |
+| [3536-maximum-product-of-two-digits](https://github.com/tajagn01/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
