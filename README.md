@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/tajagn01/leetcode-solution/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tajagn01/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tajagn01/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/tajagn01/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tajagn01/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/tajagn01/leetcode-solution/tree/master/3467-transform-array-by-parity) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
 ## Prefix Sum
 |  |
