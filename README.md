@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tajagn01/leetcode-solution/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tajagn01/leetcode-solution/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/tajagn01/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
