@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/tajagn01/leetcode-solution/tree/master/1260-shift-2d-grid) |
+| [1603-design-parking-system](https://github.com/tajagn01/leetcode-solution/tree/master/1603-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/tajagn01/leetcode-solution/tree/master/1603-design-parking-system) |
 | [3467-transform-array-by-parity](https://github.com/tajagn01/leetcode-solution/tree/master/3467-transform-array-by-parity) |
 ## Number Theory
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tajagn01/leetcode-solution/tree/master/0486-predict-the-winner) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/tajagn01/leetcode-solution/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
