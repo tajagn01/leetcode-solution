@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/tajagn01/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0647-palindromic-substrings](https://github.com/tajagn01/leetcode-solution/tree/master/0647-palindromic-substrings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tajagn01/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/tajagn01/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/tajagn01/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tajagn01/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tajagn01/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tajagn01/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tajagn01/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/tajagn01/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tajagn01/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tajagn01/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
