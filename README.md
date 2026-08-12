@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/tajagn01/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/tajagn01/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tajagn01/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/tajagn01/leetcode-solution/tree/master/0661-image-smoother) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/tajagn01/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tajagn01/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/tajagn01/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
