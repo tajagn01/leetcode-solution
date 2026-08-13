@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/tajagn01/leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/tajagn01/leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tajagn01/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/tajagn01/leetcode-solution/tree/master/0661-image-smoother) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tajagn01/leetcode-solution/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0890-find-and-replace-pattern](https://github.com/tajagn01/leetcode-solution/tree/master/0890-find-and-replace-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tajagn01/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
