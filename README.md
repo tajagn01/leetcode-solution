@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/tajagn01/leetcode-solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tajagn01/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tajagn01/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/tajagn01/leetcode-solution/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/tajagn01/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/tajagn01/leetcode-solution/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tajagn01/leetcode-solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tajagn01/leetcode-solution/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/tajagn01/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/tajagn01/leetcode-solution/tree/master/1773-count-items-matching-a-rule) |
