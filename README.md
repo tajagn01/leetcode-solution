@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/tajagn01/leetcode-solution/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/tajagn01/leetcode-solution/tree/master/0647-palindromic-substrings) |
+| [0709-to-lower-case](https://github.com/tajagn01/leetcode-solution/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/tajagn01/leetcode-solution/tree/master/0824-goat-latin) |
 | [0890-find-and-replace-pattern](https://github.com/tajagn01/leetcode-solution/tree/master/0890-find-and-replace-pattern) |
 | [1108-defanging-an-ip-address](https://github.com/tajagn01/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
