@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tajagn01/leetcode-solution/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/tajagn01/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tajagn01/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/tajagn01/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/tajagn01/leetcode-solution/tree/master/0443-string-compression) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tajagn01/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/tajagn01/leetcode-solution/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/tajagn01/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
