@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tajagn01/leetcode-solution/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tajagn01/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tajagn01/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/tajagn01/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tajagn01/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/tajagn01/leetcode-solution/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tajagn01/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
