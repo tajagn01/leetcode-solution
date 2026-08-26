@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tajagn01/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/tajagn01/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tajagn01/leetcode-solution/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/tajagn01/leetcode-solution/tree/master/0046-permutations) |
 | [0059-spiral-matrix-ii](https://github.com/tajagn01/leetcode-solution/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/tajagn01/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tajagn01/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/tajagn01/leetcode-solution/tree/master/1603-design-parking-system) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/tajagn01/leetcode-solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
