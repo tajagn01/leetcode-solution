@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/tajagn01/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tajagn01/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tajagn01/leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/tajagn01/leetcode-solution/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/tajagn01/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tajagn01/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tajagn01/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tajagn01/leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tajagn01/leetcode-solution/tree/master/0383-ransom-note) |
 | [1603-design-parking-system](https://github.com/tajagn01/leetcode-solution/tree/master/1603-design-parking-system) |
 | [3467-transform-array-by-parity](https://github.com/tajagn01/leetcode-solution/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/tajagn01/leetcode-solution/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
