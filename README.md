@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/tajagn01/leetcode-solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tajagn01/leetcode-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tajagn01/leetcode-solution/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tajagn01/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tajagn01/leetcode-solution/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/tajagn01/leetcode-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3467-transform-array-by-parity](https://github.com/tajagn01/leetcode-solution/tree/master/3467-transform-array-by-parity) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/tajagn01/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1753-maximum-score-from-removing-stones](https://github.com/tajagn01/leetcode-solution/tree/master/1753-maximum-score-from-removing-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/tajagn01/leetcode-solution/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tajagn01/leetcode-solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tajagn01/leetcode-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tajagn01/leetcode-solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Heap (Priority Queue)
